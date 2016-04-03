@@ -1,7 +1,7 @@
 2016
 Yuri Niitsuma
 
-Example to execute in command Line
+Example to execute in command Line in silent mode
 
 Windows:
 "C:\Program Files (x86)\Adobe\Adobe ExtendScript Toolkit CC\ExtendScript Toolkit.exe" -cmd "Execute ExtendedScript Toolkit Example.jsx"
