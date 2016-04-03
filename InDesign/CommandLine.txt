@@ -1,0 +1,11 @@
+2016
+Yuri Niitsuma
+
+Example to execute in command Line
+
+Windows:
+"C:\Program Files (x86)\Adobe\Adobe ExtendScript Toolkit CC\ExtendScript Toolkit.exe" -cmd "Execute ExtendedScript Toolkit Example.jsx"
+
+MAC OS X:
+"ExtendScript Toolkit.app/Contents/MacOS/ExtendScript Toolkit" \
+-cmd "Execute ExtendedScript Toolkit Example.jsx"
