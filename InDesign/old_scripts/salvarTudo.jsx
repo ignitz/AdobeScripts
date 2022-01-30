@@ -1,0 +1,1 @@
+﻿/*2015 Yuri Niitsuma <ignitzhjfk@gmail.com>*/while(app.documents.length != 0){    app.activeDocument.save();    app.activeDocument.close();}
